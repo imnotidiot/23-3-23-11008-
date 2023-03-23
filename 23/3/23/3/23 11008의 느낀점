@@ -61,3 +61,4 @@ def solution(num1, num2):
         return 1
     else: 
         return -1
+느낀점: 함수가 어려웠지만 이해하기 쉽게 설명해주셔서 이해하기에 매우 좋았습니다 따로 직접 복습도해볼거같네요 ㅎ
